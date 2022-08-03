@@ -2,4 +2,4 @@ FurDB is a Relational Database Management System that allows you to allot the si
 
 To get started, you can add [FurDB](https://github.com/furdb/furdb) as a dependency in a Rust project, or you can use its Actix-powered [REST API implementation](https://github.com/furdb/furdb-server) for any Rust or non-Rust project and follow their respective documentations. You would also need a server to handle data conversions such as [Fur Converter](https://github.com/furdb/fur-converter).
 
-There is a sample [Dictionary Demo](https://github.com/furdb/fur-dictionary) application powered by FurDB that you can play around with.
+There is a sample [Dictionary Demo](https://github.com/furdb/fur-dictionary) application powered by FurDB that you can play around with!
